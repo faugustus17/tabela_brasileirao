@@ -1,4 +1,4 @@
-# Simulação da Tabela do Campeonato Brasileiro -
+# Simulação da Tabela do Campeonato Brasileiro
 
 - Feito utilizando HTML e CSS.
 
